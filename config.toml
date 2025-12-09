@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://huylh14.github.io/AWS-Report/"
 relativeURLs = true
 canonifyURLs = true
 
