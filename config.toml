@@ -1,5 +1,5 @@
-baseURL = "https://huylh14.github.io/AWS-Report/"
-relativeURLs = true
+baseURL = "https://nhutruong47.github.io/report/"
+relativeURLs = false
 canonifyURLs = true
 
 # Change the default theme to be use when building the site with Hugo
